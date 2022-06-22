@@ -1,5 +1,5 @@
 import { openBlock, createElementBlock, renderSlot } from "vue";
-var component_vue_vue_type_style_index_0_lang = "";
+var component_vue_vue_type_style_index_0_lang = /* @__PURE__ */ (() => ".button{appearance:none;font-weight:700;background-color:#00f;text-align:center;color:#fff;padding:0 4px;height:40px;border-radius:4px}\n")();
 const _hoisted_1 = ["type", "disabled"];
 const _sfc_main = {
   __name: "component",
